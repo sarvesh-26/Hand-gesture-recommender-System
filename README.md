@@ -1,6 +1,4 @@
-ChatGPT
 
-This Python script utilizes computer vision techniques and machine learning to detect hand gestures in real-time using a webcam. Here's a brief description of the code:
 
 Import Necessary Packages: The code imports essential libraries such as OpenCV (cv2), NumPy (numpy), TensorFlow (tensorflow), and MediaPipe (mediapipe). TensorFlow's Keras API is also imported for loading the pre-trained gesture recognition model.
 
